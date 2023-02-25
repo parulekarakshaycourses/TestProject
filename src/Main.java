@@ -4,5 +4,6 @@ public class Main {
         
         // This is comment
         // This is 2nd comment
+        // This is 3rd comment for branch2
     }
 }
